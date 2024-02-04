@@ -1,4 +1,7 @@
-### Hi there 👋
+### ✨ Hi there 👋  I'm Hrishikesh Rana ✨
+
+# Aspiring Software Developer | Passionate about exploring the world of coding, development and Entrepreneurship
+
 
 <!--
 **HrishikeshRana/HrishikeshRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
