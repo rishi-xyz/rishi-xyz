@@ -1,6 +1,6 @@
-### ✨ Hi there 👋  I'm Hrishikesh Rana ✨
+#✨ Hi there 👋 I'm Hrishikesh Rana ✨
 
-# Aspiring Software Developer | Passionate about exploring the world of coding, development and Entrepreneurship
+###  Aspiring Software Developer | Passionate about exploring the world of coding, development and Entrepreneurship
 
 
 <!--
